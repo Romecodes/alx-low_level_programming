@@ -3,7 +3,7 @@
  * main - Print out the alphabets in lowercase
  * Return: 0 if no errors encounteredd,
  * ele a positive integer is returned.
- * */
+ */
 int main(void)
 {
 	char c;
