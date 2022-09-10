@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
- * main - Prints a random number and states whether
- * it is positive, negative, or zero.
- * Return: Always 0.
+ * main - checks the random value of n and prints out if it's
+ * positive, negative, or zero.
+ *
+ * Return: Returns 0 if no error encountered, else returns integer
  */
 int main(void)
 {
