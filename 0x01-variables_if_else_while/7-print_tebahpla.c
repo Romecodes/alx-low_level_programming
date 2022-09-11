@@ -4,7 +4,7 @@
  * Return: 0 if no errors, else returns a +ve integer.
  */
 int main(void)
-{ 
+{
 	char c;
 
 	for (c = 'z'; c >= 'a'; c--)
