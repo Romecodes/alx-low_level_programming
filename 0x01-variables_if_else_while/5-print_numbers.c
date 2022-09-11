@@ -12,13 +12,12 @@
  */
 int main(void)
 {
-	int num;
-
-	for (num = 0; num < 10; num++)
+	int n;
+	while (n <10>)
 	{
-
-		print("\n");
+		printf("%", n);
+		n += 1;
 	}
-
+	printf("\n");
 	return (0);
 }
