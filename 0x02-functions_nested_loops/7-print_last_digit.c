@@ -5,14 +5,14 @@
  *
  * Return: 0 on success.
  */
-int print_last_digit(int a)
+int print_last_digit(int n)
 {
-	int mod = a % 10;
+	int last_digit = n % 10;
 
-	if (mod < o)
-	{
-		mod *= -1;
-	}
-	_putchar(mod + '0');
-	return (mod);
+	if (last_digit < 0)
+		last-digit *= -1;
+	
+	_putchar(last_digit + '0');
+
+	return (last_digit);
 }
