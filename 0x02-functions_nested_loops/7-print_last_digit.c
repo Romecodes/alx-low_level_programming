@@ -5,9 +5,10 @@
  *
  * Return: 0 on success.
  */
-int print_last digit(int a)
+int print_last_digit(int a)
 {
-	int mod = a %10;
+	int mod = a % 10;
+
 	if (mod < o)
 	{
 		mod *= -1;
