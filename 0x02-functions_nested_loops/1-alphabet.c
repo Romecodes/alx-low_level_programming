@@ -2,8 +2,8 @@
 /**
  * Print_alphabet - function to print abc
  *
- * Return: 0
- */
+ * Return: 
+*/
 void print_alphabet(void)
 {
 	char a;
