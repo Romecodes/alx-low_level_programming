@@ -3,7 +3,7 @@
 
 /**
  * prints_numbers - function that prints all numbers from
- * 0 tp 9
+ * 0 to 9
  *
  * Return: returns nothing
  */
